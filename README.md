@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm Victor. I have been doing web development for the last 4 years. I live in Serbia. 🌱Every day I am getting better in development.<br>
+🔭 I'm Victor. Software engineer from Russia. Currently live in Serbia. I have been doing web development for the last 4 years. 🌱 Every day I'm getting better in development.<br>
 
 
 ## 🌐 Socials:
